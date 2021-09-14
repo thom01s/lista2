@@ -1,7 +1,7 @@
 # lista2
  continuação da resposta do exercício 3 -->
  quando os objetos são posicionado com o eixo y invertido tudo fica invertido.
- pode ser util para criação de jogos
+ pode ser util para se pensar na posição do objeto como a posição real dos pixels na tela
 
 
 trabalho feito com base na aula de processamento gráfico e tutoriais do learnopengl
